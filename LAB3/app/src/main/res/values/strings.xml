@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LAB3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next</string>
+    <string name="search">Search Title</string>
+    <string name="imbd">IMBD: </string>
+    <string name="runtime">RUNTIME: </string>
+    <string name="genre">GENRE: </string>
+    <string name="director">DIRECTOR: </string>
+    <string name="actors">ACTORS: </string>
+    <string name="plot">PLOT: </string>
+    <string name="country">COUNTRY: </string>
+    <string name="language">LANGUAGE: </string>
+</resources>
